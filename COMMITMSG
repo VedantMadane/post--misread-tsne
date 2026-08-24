@@ -1,0 +1,8 @@
+fix: Small typo
+
+- public\index.html: 'two-dimensonal'->'two-dimensional'
+- public\_index.html: 'two-dimensonal'->'two-dimensional'
+
+Fixes #14
+
+Signed-off-by: Vedant Madane <6527493+VedantMadane@users.noreply.github.com>
